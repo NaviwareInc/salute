@@ -2,8 +2,8 @@
 /tests
 .idea
 .vscode
-composer.lock
 .phpunit.result.cache
-phpunit.xml
 .gitignore
 .editorconfig
+composer.lock
+phpunit.xml
