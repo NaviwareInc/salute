@@ -1,6 +1,6 @@
 <?php
 
-namespace Naviware\Naviware;
+namespace Naviware\Salute;
 
 use Illuminate\Config\Repository;
 use Naviware\Salute\Exceptions\ConfigFileNotFoundException;
