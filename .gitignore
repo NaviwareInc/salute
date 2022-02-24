@@ -1,6 +1,9 @@
-vendor
+/vendor
+/tests
 .idea
 .vscode
 composer.lock
 .phpunit.result.cache
 phpunit.xml
+.gitignore
+.editorconfig
