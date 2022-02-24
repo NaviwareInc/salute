@@ -9,7 +9,7 @@
 
 ##### Installation Steps
 
-1. `composer require naviware\salute`
+1. `composer require naviware/salute`
 2. `composer update`
 
 ## Contributing
